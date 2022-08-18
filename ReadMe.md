@@ -5,3 +5,4 @@
 - 2022/08/12 - [유사역행렬](https://foul-beechnut-069.notion.site/pseudo-inverse-matrix-43eba51ecfc84cc687831aea0718d677)
 - 2022/08/13 - [LRN이란?](https://foul-beechnut-069.notion.site/LRN-35eb57fe114b4d01a2b07fab56a0462b), [Vanishing and Exploding Gradient](https://foul-beechnut-069.notion.site/Vanishing-and-Exploding-Gradient-8dda7d38813a4622a47da8a101c154df)
 - 2022/08/16 - [DeepLab V3+](https://foul-beechnut-069.notion.site/DeepLab-V3-6781a6ae7124455cb9803f44d4be202c)
+- 2022/08/18 - [Pipeline](https://foul-beechnut-069.notion.site/Pipeline-de02e4833ccc4645964072834c1c4e75), [Subgradient method](https://foul-beechnut-069.notion.site/Subgradient-method-a342bc23fa1145c694813fcc8efe59f0)
