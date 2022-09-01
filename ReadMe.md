@@ -7,3 +7,4 @@
 - 2022/08/16 - [DeepLab V3+](https://foul-beechnut-069.notion.site/DeepLab-V3-6781a6ae7124455cb9803f44d4be202c)
 - 2022/08/18 - [Pipeline](https://foul-beechnut-069.notion.site/Pipeline-de02e4833ccc4645964072834c1c4e75), [Subgradient method](https://foul-beechnut-069.notion.site/Subgradient-method-a342bc23fa1145c694813fcc8efe59f0)
 - 2022/08/25 - [Support Vector Machine(SVM)](https://foul-beechnut-069.notion.site/Support-Vector-Machine-SVM-e08dc35629fb4e8f9b5083d8e415675d)
+- 2022/09/01 - [Decision Tree](https://foul-beechnut-069.notion.site/Decision-Tree-79526991759a4bde99851bdc6de4a2e3)
