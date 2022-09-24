@@ -11,3 +11,4 @@
 - 2022/09/07 - [cGAN(Conditional Generative Model)](https://foul-beechnut-069.notion.site/cGAN-Conditional-Generative-Model-70a9c50ff27d4d51b674fbfe183f77fa)
 - 2022/09/15 - [Transformer](https://foul-beechnut-069.notion.site/Transformer-190bd56c9b8c4918a9ad4ab6f12d3dad)
 - 2022/09/21 - [Text Sentiment Analysis](https://foul-beechnut-069.notion.site/Text-Sentiment-Analysis-95795e0f1f22466b872d6fea0e66ec2c)
+- 2022/09/24 - [TF2 API 개요](https://foul-beechnut-069.notion.site/TF2-API-963e39896c3743d7b76733c43459c1c7)
