@@ -13,3 +13,4 @@
 - 2022/09/21 - [Text Sentiment Analysis](https://foul-beechnut-069.notion.site/Text-Sentiment-Analysis-95795e0f1f22466b872d6fea0e66ec2c)
 - 2022/09/24 - [TF2 API 개요](https://foul-beechnut-069.notion.site/TF2-API-963e39896c3743d7b76733c43459c1c7)
 - 2022/09/25 - [Text Feature extraction](https://foul-beechnut-069.notion.site/Text-Feature-extraction-8c6e308136f34dbaa82b50aa13920401)
+- 2022/10/02 - [Call Stack(콜 스택)](https://foul-beechnut-069.notion.site/Call-Stack-bdd4069ae8b84d1cae5fd1815ce8887b)
