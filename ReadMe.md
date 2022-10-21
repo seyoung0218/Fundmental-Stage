@@ -16,3 +16,4 @@
 - 2022/10/02 - [Call Stack(콜 스택)](https://foul-beechnut-069.notion.site/Call-Stack-bdd4069ae8b84d1cae5fd1815ce8887b)
 - 2022/10/03 - [Garbage Collecting of Python](https://foul-beechnut-069.notion.site/Garbage-Collecting-of-Python-2f1cb1536eff4f4cabfeab5cb59d3ef5)
 - 2022/10/05 - [Mechine Translation](https://foul-beechnut-069.notion.site/Mechine-Translation-b5106f4e19ac416bb2adfd47825b9b47)
+- 2022/10/21 - [BERT(Bidirectional Encoder Representations from Transformers)](https://foul-beechnut-069.notion.site/BERT-Bidirectional-Encoder-Representations-from-Transformers-d63c356aae8e4eeab9d9937fbcfceb2e)
