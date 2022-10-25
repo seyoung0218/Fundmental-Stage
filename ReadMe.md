@@ -17,3 +17,4 @@
 - 2022/10/03 - [Garbage Collecting of Python](https://foul-beechnut-069.notion.site/Garbage-Collecting-of-Python-2f1cb1536eff4f4cabfeab5cb59d3ef5)
 - 2022/10/05 - [Mechine Translation](https://foul-beechnut-069.notion.site/Mechine-Translation-b5106f4e19ac416bb2adfd47825b9b47)
 - 2022/10/21 - [BERT(Bidirectional Encoder Representations from Transformers)](https://foul-beechnut-069.notion.site/BERT-Bidirectional-Encoder-Representations-from-Transformers-d63c356aae8e4eeab9d9937fbcfceb2e)
+- 2022/10/25 - [정적 메소드](https://foul-beechnut-069.notion.site/538f756095fe4984bffa5dc28e74bcd9)
