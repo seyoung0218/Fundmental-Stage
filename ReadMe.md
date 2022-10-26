@@ -18,3 +18,4 @@
 - 2022/10/05 - [Mechine Translation](https://foul-beechnut-069.notion.site/Mechine-Translation-b5106f4e19ac416bb2adfd47825b9b47)
 - 2022/10/21 - [BERT(Bidirectional Encoder Representations from Transformers)](https://foul-beechnut-069.notion.site/BERT-Bidirectional-Encoder-Representations-from-Transformers-d63c356aae8e4eeab9d9937fbcfceb2e)
 - 2022/10/25 - [정적 메소드](https://foul-beechnut-069.notion.site/538f756095fe4984bffa5dc28e74bcd9)
+- 2022/10/26 - [비지도학습](https://foul-beechnut-069.notion.site/30c4606e60ba413f8a1a52568d48544c)
