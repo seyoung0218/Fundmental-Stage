@@ -21,3 +21,4 @@
 - 2022/10/26 - [비지도학습](https://foul-beechnut-069.notion.site/30c4606e60ba413f8a1a52568d48544c)
 - 2022/10/27 - [Anaconda 가상환경 관리자](https://foul-beechnut-069.notion.site/Anaconda-e99d2b87ec124e18ae8bf7932ff3bffe)
 - 2022/11/03 - [T5(Text-to-Text Transfer Transformer)](https://foul-beechnut-069.notion.site/T5-Text-to-Text-Transfer-Transformer-1852853f11094535b7df0e787b5d020a)
+- 2022/12/11 - [뉴스기사 크롤링](https://foul-beechnut-069.notion.site/955be8108561476fa634102a2cd739d1)
